@@ -45,10 +45,6 @@ source("deseq2_analysis.R")
 - Differential expression: genes were called significant at adjusted p < 0.05 and |log2 fold change| > 1. Low-count genes were removed before testing (total count of at least 10 in gill, at least 5 in muscle). Contrasts are control vs. treatment, so a positive fold change means higher expression in the control.
 - PCA plots with some muscle samples removed are for visualization only; all samples are included in the differential expression models.
 
-## Tools
-
-FastQC [version] · Trimmomatic 0.39 · HISAT2 [version] · samtools [version] · Subread/featureCounts [version] · R [version] with DESeq2 [version]
-
 ## Contact
 
 Sarah Koshak, PhD
