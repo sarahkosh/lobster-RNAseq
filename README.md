@@ -12,7 +12,6 @@ An RNA-seq analysis I led during my PhD, comparing gene expression in American l
 | Data | Paired-end Illumina RNA-seq, sequenced by Novogene |
 | Samples | 8 gill and 9 muscle libraries |
 | Reference | *H. americanus* genome, assembly Hamer_2.0 (NCBI) |
-| My role | Led the analysis: workflow design, processing, and differential expression |
 
 ## Workflow
 
